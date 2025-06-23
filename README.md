@@ -139,7 +139,7 @@ python3 main.py
 
 ## ✨ Credits
 
-- Developed by [@popeye68](https://github.com/popeye68)  
+- Developed by [@Ranajii25](https://t.me/ranajii25)  
 - Inspired by open source community ❤️  
 
 ---
@@ -153,7 +153,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌟 Support
 
 If you like this project, give it a ⭐ on GitHub!  
-For any issues, open an [issue](https://github.com/popeye68/NON-DRM-TXT-VIDEO/issues).
+For ).
 
 ---
 
