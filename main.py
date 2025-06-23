@@ -42,7 +42,7 @@ async def show_random_emojis(message):
     emoji_message = await message.reply_text(' '.join(random.choices(emojis, k=1)))
     return emoji_message
     
-credit ="🇸 🇵 🇮 🇩 🇾" 
+credit ="Ꮢᴀɴᴀ ᎫᎥᎥㅤ⸙" 
 # Initialize the bot
 bot = Client(
     "bot",
@@ -72,7 +72,7 @@ cookies_file_path= "youtube_cookies.txt"
 @bot.on_message(filters.command(["help"]))
 async def txt_handler(client: Client, m: Message):
     await bot.send_message(m.chat.id, text= (
-        "🎉Congrats! You are using 𝗦𝗣𝗜𝗗𝗬 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥:\n┣\n"
+        "🎉Congrats! You are using Ꮢᴀɴᴀ ᎫᎥᎥㅤ⸙ 𝗘𝗫𝗧𝗥𝗔𝗖𝗧𝗢𝗥:\n┣\n"
         "┣⪼01. Send /start - To Check Bot \n┣\n"
         "┣⪼02. Send /drm - for extract txt file\n┣\n"
         "┣⪼03. Send /cp - for stream txt file\n┣\n"
